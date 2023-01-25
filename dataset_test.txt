@@ -1,0 +1,17 @@
+FileName,AcousticScene
+scenes_stereo/scenes_stereo/bus09.wav,bus
+scenes_stereo/scenes_stereo/bus10.wav,bus
+scenes_stereo/scenes_stereo/busystreet09.wav,busystreet
+scenes_stereo/scenes_stereo/busystreet10.wav,busystreet
+scenes_stereo/scenes_stereo/office09.wav,office
+scenes_stereo/scenes_stereo/office10.wav,office
+scenes_stereo/scenes_stereo/park09.wav,park
+scenes_stereo/scenes_stereo/park10.wav,park
+scenes_stereo/scenes_stereo/quietstreet09.wav,quietstreet
+scenes_stereo/scenes_stereo/quietstreet10.wav,quietstreet
+scenes_stereo/scenes_stereo/restaurant09.wav,restaurant
+scenes_stereo/scenes_stereo/restaurant10.wav,restaurant
+scenes_stereo/scenes_stereo/supermarket09.wav,supermarket
+scenes_stereo/scenes_stereo/supermarket10.wav,supermarket
+
+
